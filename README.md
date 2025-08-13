@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @024sa
-- 👀 I’m interested in ...learning new darks 
-- 🌱 I’m currently learning ...Hk
-- 💞️ I’m looking to collaborate on ...facts 
-- 📫 How to reach me ...sammyzaaich@gmail.com 
-- 😄 Pronouns: ...🤓
-- ⚡ Fun fact: ...24/7
+ ##  👋 Hi, i`m sam 🤝🤝🤝
+
+🧠 computer enthusiasts student at Global Tech<br/>
+👩‍💻 Design scripting code programs<br/>
+☣ learning more to stay consistent<br/>
+📽 i make short tips on code on [Instagram](https://www.instagram.com/Sam_zack001/)
+
 
 <!---
 024sa/024sa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
